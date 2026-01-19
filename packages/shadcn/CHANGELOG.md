@@ -1,5 +1,11 @@
 # @shadcn/ui
 
+## 3.7.1
+
+### Patch Changes
+
+- [#8798](https://github.com/shadcn-ui/ui/pull/8798) [`2acaf954d7492ce722d2a7ee02747dc8f85691ef`](https://github.com/shadcn-ui/ui/commit/2acaf954d7492ce722d2a7ee02747dc8f85691ef) Thanks [@VeiaG](https://github.com/VeiaG)! - Fix: skip all transforms for universal registry items
+
 ## 3.7.0
 
 ### Minor Changes
